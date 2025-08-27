@@ -1,5 +1,5 @@
 # part 1 (overview)
-i created a website for my online sneaker store becasue the store will be running online
+i created a website for my online sneaker store becasue the store will be running online aswell as one for a bakery that will be able to run orders online 
 the features of the website will include 
 5 HTML web pages (index.html, about.html, products.html, enquiry.html, contact.html)
 
